@@ -7,11 +7,24 @@ The purpose of this project was to look for trends in recipes and their respecti
 ## Datasets
 
 Two csv files from Food.com were downloaded from Kaggle:
-  1. reviews.csv
-  2. recipes.csv
+   reviews.csv
+   recipes.csv
   
 ---
  
 ## Research Questions
+
+  1. Are there different trends in ratings based on a recipes category?
+  2. Are certain health conscious ingredients on the rise? 
+  3. Do certain positive buzz words in descriptions lead to better ratings? 
+
+---
+
+## Process
+
+---
+
+## Analysis
+
 
   
