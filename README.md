@@ -26,6 +26,11 @@ Two csv files from Food.com were downloaded from Kaggle:
 ---
 
 ## Analysis
+---
+# Ratings by Category
 
+# Healthy Ingredients over Time
+
+![keyingredients](https://user-images.githubusercontent.com/111457464/220449744-c1c3b96d-7441-47f0-b978-aab5d4e2d8b6.png)
 
   
