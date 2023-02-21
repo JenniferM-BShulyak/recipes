@@ -7,8 +7,8 @@ The purpose of this project was to look for trends in recipes and their respecti
 ## Datasets
 
 Two csv files from Food.com were downloaded from Kaggle:
-   reviews.csv
-   recipes.csv
+   >reviews.csv
+   >recipes.csv
   
 ---
  
