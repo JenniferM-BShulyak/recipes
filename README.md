@@ -27,10 +27,17 @@ Two csv files from Food.com were downloaded from Kaggle:
 
 ## Analysis
 ---
-# Ratings by Category
+### Ratings by Category
 
-# Healthy Ingredients over Time
+
+### Healthy Ingredients over Time
 
 ![keyingredients](https://user-images.githubusercontent.com/111457464/220449744-c1c3b96d-7441-47f0-b978-aab5d4e2d8b6.png)
+
+The number of recipes posted changed on a month-by-month basis, so the percentage of recieps with the healthy ingredient posted each month was examined. There does not appear to be a significant change in the percentage of recipes with each ingredient.
+
+### Question 3: Certain Buzz Words Correspond to Higher Ratings (IN PROGRESS) 
+
+Waiting to use machine learning to identify positive buzz words in descriptions. 
 
   
